@@ -1,9 +1,17 @@
 ## Hi there 👋
 
+##My interest 
+I'm a AI/ML engineer and data scientist who curious about machine learning and deep learning
+there's many tools and languages I use
+
+#Tools 
+Python Java
+
 <!--
 **Framecyber/Framecyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
